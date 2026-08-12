@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CD Tenerife 2026/27 · Benito Fortes
 X-WR-TIMEZONE:Atlantic/Canary
-X-PUBLISHED-VERSION:1.0
+X-PUBLISHED-VERSION:1.1
 BEGIN:VEVENT
 UID:cdt-2026-27-1-2026-08-16@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 1 — Eibar - Tenerife · CONFIRMADO
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
-DTSTART;TZID=Atlantic/Canary:20260816T160000
-DTEND;TZID=Atlantic/Canary:20260816T180000
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
+DTSTART;TZID=Atlantic/Canary:20260816T183000
+DTEND;TZID=Atlantic/Canary:20260816T203000
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
@@ -22,10 +22,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-2-2026-08-23@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 2 — Tenerife - Almería · CONFIRMADO
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 2 — Partido en casa\nEstado: Horario confirmado\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 2 — Partido en casa\nEstado: Horario confirmado\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;TZID=Atlantic/Canary:20260823T203000
 DTEND;TZID=Atlantic/Canary:20260823T223000
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -37,10 +37,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-3-2026-08-28@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 3 — Tenerife - Sporting · CONFIRMADO
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 3 — Partido en casa\nEstado: Horario confirmado\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 3 — Partido en casa\nEstado: Horario confirmado\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;TZID=Atlantic/Canary:20260828T200000
 DTEND;TZID=Atlantic/Canary:20260828T220000
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
@@ -52,10 +52,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-4-2026-09-06@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 4 — Real Sociedad B - Tenerife · CONFIRMADO
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 4 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 4 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;TZID=Atlantic/Canary:20260906T130000
 DTEND;TZID=Atlantic/Canary:20260906T150000
 BEGIN:VALARM
@@ -66,361 +66,361 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-5-2026-09-13@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 5 — Tenerife - Leganés
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 5 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 5 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-6-2026-09-20@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 6 — Castellón - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 6 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 6 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-7-2026-09-27@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 7 — Tenerife - Cádiz
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 7 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 7 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-8-2026-10-04@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 8 — Córdoba - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 8 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 8 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-9-2026-10-11@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 9 — Tenerife - Girona
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 9 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 9 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-10-2026-10-18@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 10 — Celta Fortuna - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 10 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 10 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-11-2026-10-25@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 11 — Sabadell - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 11 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 11 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-12-2026-11-01@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 12 — Tenerife - Andorra
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 12 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 12 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-13-2026-11-08@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 13 — Granada - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 13 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 13 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-14-2026-11-15@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 14 — Tenerife - Ceuta
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 14 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 14 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-15-2026-11-22@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 15 — Tenerife - Mallorca
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 15 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 15 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-16-2026-11-29@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 16 — Albacete - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 16 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 16 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-17-2026-12-06@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 17 — Tenerife - Eldense
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 17 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 17 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-18-2026-12-13@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 18 — Real Valladolid - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 18 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 18 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-19-2026-12-20@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 19 — Tenerife - Oviedo
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 19 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 19 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-20-2027-01-03@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 20 — Las Palmas - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 20 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 20 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-21-2027-01-10@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 21 — Tenerife - Burgos
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 21 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 21 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-22-2027-01-17@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 22 — Andorra - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 22 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 22 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-23-2027-01-24@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 23 — Tenerife - Eibar
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 23 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 23 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-24-2027-01-31@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 24 — Ceuta - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 24 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 24 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-25-2027-02-07@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 25 — Tenerife - Granada
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 25 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 25 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-26-2027-02-14@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 26 — Eldense - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 26 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 26 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-27-2027-02-21@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 27 — Tenerife - Albacete
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 27 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 27 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-28-2027-02-28@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 28 — Oviedo - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 28 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 28 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-29-2027-03-07@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 29 — Leganés - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 29 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 29 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-30-2027-03-14@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 30 — Tenerife - Sabadell
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 30 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 30 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-31-2027-03-21@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 31 — Burgos - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 31 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 31 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-32-2027-03-28@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 32 — Tenerife - Las Palmas
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 32 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 32 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-33-2027-04-04@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 33 — Sporting - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 33 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 33 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-34-2027-04-11@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 34 — Almería - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 34 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 34 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-35-2027-04-18@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 35 — Tenerife - Real Sociedad B
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 35 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 35 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-36-2027-04-25@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 36 — Girona - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 36 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 36 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-37-2027-05-02@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 37 — Tenerife - Castellón
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 37 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 37 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-38-2027-05-09@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 38 — Tenerife - Córdoba
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 38 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 38 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-39-2027-05-16@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 39 — Mallorca - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 39 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 39 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-40-2027-05-23@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 40 — Tenerife - Valladolid
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 40 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 40 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-41-2027-05-30@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 41 — Cádiz - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 41 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 41 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-42-2027-06-06@calendario-cdtenerife
-DTSTAMP:20260812T210423
-SEQUENCE:10
+DTSTAMP:20260812T214520
+SEQUENCE:11
 SUMMARY:⚽ Jornada 42 — Tenerife - Celta Fortuna
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 42 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.0\nCalendario creado por Benito Fortes
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 42 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.1\nCalendario creado por Benito Fortes
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
