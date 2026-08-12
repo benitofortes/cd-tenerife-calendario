@@ -39,11 +39,11 @@ footer{text-align:center;color:var(--muted);font-size:.9rem;padding:0 16px 36px}
 <h2>📅 Suscríbete una sola vez</h2>
 <p><strong>42 partidos</strong> en tu calendario y los horarios se actualizarán automáticamente cuando sean confirmados o modificados.</p>
 <p><strong>No necesitas cuenta de GitHub.</strong> Y no tienes que volver a suscribirte cada vez que cambie un horario.</p>
-<a class="cta" href="https://benitofortes.github.io/cd-tenerife-calendario/cd-tenerife-2026-27.ics">📱 Suscribirme al calendario</a>
-<p class="note">Si estás en iPhone, este botón abre directamente la suscripción del calendario.</p>
+<a class="cta" id="subscribeBtn" href="#como-usarlo">📱 Suscribirme al calendario</a>
+<p class="note" id="subscribeNote">Seleccionaremos automáticamente la forma adecuada para tu dispositivo.</p>
 </section>
 
-<section class="card">
+<section class="card" id="como-usarlo">
 <h2>📱 Elige cómo usarlo</h2>
 <div class="grid">
 <div class="option">
@@ -52,13 +52,13 @@ footer{text-align:center;color:var(--muted);font-size:.9rem;padding:0 16px 36px}
 <ol><li>Pulsa <strong>Suscribirme al calendario</strong>.</li><li>Confirma la suscripción.</li><li>El calendario aparecerá en Calendario.</li></ol>
 <p><strong>Una vez suscrito, no tienes que hacer nada más.</strong></p>
 </div>
-<div class="option">
+<div class="option" id="android">
 <span class="tag">🤖 Android</span>
 <h3>Google Calendar</h3>
 <ol><li>Desde un <strong>ordenador</strong>, abre Google Calendar.</li><li>En «Otros calendarios», elige <strong>Desde URL</strong>.</li><li>Pega la dirección del calendario y añádelo.</li><li>Después aparecerá también en la app Google Calendar del Android.</li></ol>
 <p class="note">Google actualmente no permite añadir una suscripción nueva mediante URL directamente desde su app Android.</p>
 </div>
-<div class="option">
+<div class="option" id="ordenador">
 <span class="tag">💻 Ordenador</span>
 <h3>Google Calendar</h3>
 <ol><li>Abre Google Calendar.</li><li>«Otros calendarios» → <strong>Desde URL</strong>.</li><li>Pega la dirección del calendario.</li><li>Selecciona <strong>Añadir calendario</strong>.</li></ol>
@@ -97,6 +97,28 @@ footer{text-align:center;color:var(--muted);font-size:.9rem;padding:0 16px 36px}
 <p><strong>Calendario elaborado y mantenido por Benito Fortes</strong></p>
 <p>Esta página no pretende representar oficialmente al CD Tenerife.</p>
 </footer>
+
+<script>
+const subscribeBtn = document.getElementById("subscribeBtn");
+const subscribeNote = document.getElementById("subscribeNote");
+const isAppleMobile = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+const isAndroid = /Android/i.test(navigator.userAgent);
+
+if (isAppleMobile) {
+  subscribeBtn.href = "https://benitofortes.github.io/cd-tenerife-calendario/cd-tenerife-2026-27.ics";
+  subscribeBtn.textContent = "📱 Suscribirme al calendario";
+  subscribeNote.textContent = "Tu iPhone/iPad abrirá directamente la suscripción del calendario.";
+} else if (isAndroid) {
+  subscribeBtn.href = "#android";
+  subscribeBtn.textContent = "🤖 Cómo añadirlo en Android";
+  subscribeNote.textContent = "Te llevamos directamente a las instrucciones para Google Calendar.";
+} else {
+  subscribeBtn.href = "#ordenador";
+  subscribeBtn.textContent = "💻 Cómo añadirlo en ordenador";
+  subscribeNote.textContent = "Te llevamos directamente a las instrucciones para Google Calendar.";
+}
+
+</script>
 
 <script>
 const ICS_URL="https://benitofortes.github.io/cd-tenerife-calendario/cd-tenerife-2026-27.ics";
