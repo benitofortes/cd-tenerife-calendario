@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Benito Fortes//Prueba Calendario Suscrito//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Prueba Calendario Benito Fortes
+X-WR-TIMEZONE:Atlantic/Canary
+BEGIN:VEVENT
+UID:prueba-benito-fortes-001@calendario
+DTSTAMP:20260812T090000Z
+DTSTART;TZID=Atlantic/Canary:20260815T160000
+DTEND;TZID=Atlantic/Canary:20260815T180000
+SUMMARY:⚽ PRUEBA - Partido de prueba
+DESCRIPTION:Calendario de prueba creado por Benito Fortes.
+END:VEVENT
+END:VCALENDAR
