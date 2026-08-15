@@ -4,13 +4,12 @@ PRODID:-//Agenda Blanquiazul//Calendario de Desarrollo//ES
 X-WR-CALNAME:Agenda Blanquiazul 2026/27 — Prueba
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CD Tenerife 2026/27 — Prueba de Desarrollo
 X-WR-TIMEZONE:Atlantic/Canary
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
 UID:cdt-dev-2026-27-1-20260816@calendario-cdtenerife
 DTSTAMP:20260815T093000Z
-LAST-MODIFIED:20260815T151500Z
+LAST-MODIFIED:20260815T153000Z
 SEQUENCE:7
 SUMMARY:⚽ Jornada 1 — Eibar - Tenerife · PRUEBA
 DESCRIPTION:Agenda Blanquiazul 2026/27 — Calendario no oficial — Jornada 1 — Partido fuera\n
@@ -23,7 +22,7 @@ DESCRIPTION:Agenda Blanquiazul 2026/27 — Calendario no oficial — Jornada 1 �
  1.º Real Valladolid · 3 puntos\n2.º UD Almería · 3 puntos\n
  6.º Real Zaragoza · 1 punto\n\nEntorno:
  Entorno: Desarrollo — datos simulados\n\nProyecto independiente, sin afiliación ni autorización del CD Tenerife.
-DTSTART;TZID=Atlantic/Canary:20260816T160000DTSTART;TZID=Atlantic/Canary:20260816T160000
+DTSTART;TZID=Atlantic/Canary:20260816T160000
 DTEND;TZID=Atlantic/Canary:20260816T180000
 LOCATION:Estadio Municipal de Ipurúa\, Eibar
 STATUS:CONFIRMED
