@@ -8,11 +8,11 @@ X-WR-TIMEZONE:Atlantic/Canary
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
 UID:cdt-dev-2026-27-1-20260816@calendario-cdtenerife
-DTSTAMP:20260815T080000Z
-LAST-MODIFIED:20260815T080000Z
-SEQUENCE:0
+DTSTAMP:20260815T090000Z
+LAST-MODIFIED:20260815T090000Z
+SEQUENCE:1
 SUMMARY:⚽ Jornada 1 — Eibar - Tenerife · PRUEBA
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\n🏟️ Estadio: Estadio Municipal de Ipurúa\n📺 TV: Por determinar\nEntorno: Desarrollo — no es el calendario público
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\n🏟️ Estadio: Estadio Municipal de Ipurúa\n📺 TV: LALIGA TV HYPERMOTION\nEntorno: Desarrollo — no es el calendario público
 DTSTART;TZID=Atlantic/Canary:20260816T160000
 DTEND;TZID=Atlantic/Canary:20260816T180000
 LOCATION:Estadio Municipal de Ipurúa\, Eibar
