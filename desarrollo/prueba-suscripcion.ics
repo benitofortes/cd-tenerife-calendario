@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Benito Fortes//CD Tenerife Desarrollo//ES
+PRODID:-//Agenda Blanquiazul//Calendario de Desarrollo//ES
+X-WR-CALNAME:Agenda Blanquiazul 2026/27 — Prueba
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CD Tenerife 2026/27 — Prueba de Desarrollo
@@ -12,7 +13,7 @@ DTSTAMP:20260815T093000Z
 LAST-MODIFIED:20260815T120000Z
 SEQUENCE:6
 SUMMARY:⚽ Jornada 1 — Eibar - Tenerife · PRUEBA
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\n
+DESCRIPTION:Agenda Blanquiazul 2026/27 — Calendario no oficial — Jornada 1 — Partido fuera\n
  🏟️ Estadio: Estadio Municipal de Ipurúa\n
  📺 TV: LALIGA TV HYPERMOTION\n
  ⚽ Resultado (prueba): Eibar 1 — 2 CD Tenerife\n
@@ -21,8 +22,8 @@ DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\n
  GF 2 · GC 1 · DG +1\n\n🔝 Referencias\n
  1.º Real Valladolid · 3 puntos\n2.º UD Almería · 3 puntos\n
  6.º Real Zaragoza · 1 punto\n\nEntorno:
- Desarrollo — datos simulados
-DTSTART;TZID=Atlantic/Canary:20260816T160000
+ Entorno: Desarrollo — datos simulados\n\nProyecto independiente, sin afiliación ni autorización del CD Tenerife.
+DTSTART;TZID=Atlantic/Canary:20260816T160000DTSTART;TZID=Atlantic/Canary:20260816T160000
 DTEND;TZID=Atlantic/Canary:20260816T180000
 LOCATION:Estadio Municipal de Ipurúa\, Eibar
 STATUS:CONFIRMED
