@@ -9,13 +9,9 @@ X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
 UID:cdt-dev-2026-27-1-20260816@calendario-cdtenerife
 DTSTAMP:20260815T093000Z
-LAST-MODIFIED:20260815T093000Z
-SEQUENCE:2
+LAST-MODIFIED:20260815T094500Z
+SEQUENCE:3
 SUMMARY:⚽ Jornada 1 — Eibar - Tenerife · PRUEBA
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\n🏟️ Estadio: Estadio Municipal de Ipurúa\n📺 TV: LALIGA TV HYPERMOTION\n⚽ Resultado (prueba): Eibar 1 — 2 CD Tenerife\n📊 Clasificación (prueba tras la jornada 1)\nCD Tenerife: 3.º · 3 puntos · PJ 1 · PG 1 · PE 0 · PP 0 · GF 2 · GC 1 · DG +1\n🔝 1.º Real Valladolid · 3 puntos\n↗️ 2.º UD Almería · 3 puntos\n🎯 Corte promoción: 6.º Real Zaragoza · 1 punto\nEntorno: Desarrollo — datos simulados
-DTSTART;TZID=Atlantic/Canary:20260816T160000
-DTEND;TZID=Atlantic/Canary:20260816T180000
-LOCATION:Estadio Municipal de Ipurúa\, Eibar
-STATUS:CONFIRMED
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 1 — Partido fuera\n🏟️ Estadio: Estadio Municipal de Ipurúa\n📺 TV: LALIGA TV HYPERMOTION\n⚽ Resultado (prueba): Eibar 1 — 2 CD Tenerife\n📊 CLASIFICACIÓN — Jornada 1\n\n3.º puesto\n🔵 CD TENERIFE\n3 puntos · PJ 1 · PG 1 · PE 0 · PP 0\nGF 2 · GC 1 · DG +1\n\n🔝 Referencias\n1.º Real Valladolid · 3 puntos\n2.º UD Almería · 3 puntos\n6.º Real Zaragoza · 1 punto\n\nEntorno: Desarrollo — datos simulados
 END:VEVENT
 END:VCALENDAR
