@@ -52,12 +52,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-4-2026-09-06@calendario-cdtenerife
-DTSTAMP:20260812T220826
-SEQUENCE:12
+DTSTAMP:20260901T210000Z
+SEQUENCE:13
 SUMMARY:⚽ Jornada 4 — Real Sociedad B - Tenerife · CONFIRMADO
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 4 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.2\nCalendario creado por Benito Fortes
-DTSTART;TZID=Atlantic/Canary:20260906T130000
-DTEND;TZID=Atlantic/Canary:20260906T150000
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 4 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.3\nCalendario creado por Benito Fortes
+DTSTART;TZID=Atlantic/Canary:20260905T130000
+DTEND;TZID=Atlantic/Canary:20260905T150000
+LOCATION:Instalaciones de Zubieta Z1\, San Sebastián
 BEGIN:VALARM
 TRIGGER:-PT60M
 ACTION:DISPLAY
