@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CD Tenerife 2026/27 · Benito Fortes
 X-WR-TIMEZONE:Atlantic/Canary
-X-PUBLISHED-VERSION:1.4
+X-PUBLISHED-VERSION:1.5
 BEGIN:VEVENT
 UID:cdt-2026-27-1-2026-08-16@calendario-cdtenerife
 DTSTAMP:20260812T220826
@@ -142,12 +142,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-10-2026-10-18@calendario-cdtenerife
-DTSTAMP:20260812T220826
-SEQUENCE:12
-SUMMARY:⚽ Jornada 10 — Celta Fortuna - Tenerife
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 10 — Partido fuera\nEstado: Pendiente de horario\nVersión de publicación: 1.2\nCalendario creado por Benito Fortes
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTAMP:20260923T154524Z
+SEQUENCE:15
+SUMMARY:⚽ Jornada 10 — Celta Fortuna - Tenerife · CONFIRMADO
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 10 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.5\nCalendario creado por Benito Fortes
+DTSTART;TZID=Atlantic/Canary:20261019T193000
+DTEND;TZID=Atlantic/Canary:20261019T213000
+LOCATION:Estadio ABANCA Balaídos\, Vigo
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:CD Tenerife — Celta Fortuna - Tenerife
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-11-2026-10-25@calendario-cdtenerife
