@@ -6,25 +6,31 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-TIMEZONE:Atlantic/Canary
 X-PUBLISHED-TTL:PT15M
+
 BEGIN:VEVENT
-UID:cdt-dev-2026-27-1-20260816@calendario-cdtenerife
-DTSTAMP:20260815T093000Z
-LAST-MODIFIED:20260816T094211Z
-SEQUENCE:8
-SUMMARY:⚽ Jornada 1 — Eibar - Tenerife · PRUEBA
-DESCRIPTION:Agenda Blanquiazul 2026/27 — Jornada 1 — Partido fuera\n
- 🏟️ Estadio: Estadio Municipal de Ipurúa\n
- 📺 TV: PRUEBA ACTUALIZACIÓN ANDROID\n
- ⚽ Resultado (prueba): Eibar 1 — 2 CD Tenerife\n
- 📊 CLASIFICACIÓN — Jornada 1\n\n3.º puesto\n
- 🔵 CD TENERIFE\n3 puntos · PJ 1 · PG 1 · PE 0 · PP 0\n
- GF 2 · GC 1 · DG +1\n\n🔝 Referencias\n
- 1.º Real Valladolid · 3 puntos\n2.º UD Almería · 3 puntos\n
- 6.º Real Zaragoza · 1 punto\n\nEntorno:
- Entorno: Desarrollo — datos simulados\n\nProyecto independiente, sin vinculación con el CD Tenerife.
-DTSTART;TZID=Atlantic/Canary:20260816T160000
-DTEND;TZID=Atlantic/Canary:20260816T180000
-LOCATION:Estadio Municipal de Ipurúa\, Eibar
+UID:cdt-dev-2026-27-6-20260919@calendario-cdtenerife
+DTSTAMP:20260925T220000Z
+LAST-MODIFIED:20260925T220000Z
+SEQUENCE:9
+SUMMARY:⚽ J6 — Castellón 5-0 Tenerife · FINAL
+DESCRIPTION:Agenda Blanquiazul 2026/27 — Jornada 6 — Partido fuera\n\n✅ RESULTADO FINAL\nCD Castellón 5-0 CD Tenerife\n\n📊 CLASIFICACIÓN FINAL — JORNADA 6\n11.º CD TENERIFE · 10 puntos\nPJ 6 · PG 3 · PE 1 · PP 2\nGF 7 · GC 8 · DG -1\n\nEntorno: Desarrollo — prueba con datos reales\n\nProyecto independiente, sin vinculación con el CD Tenerife.
+DTSTART;TZID=Atlantic/Canary:20260919T173000
+DTEND;TZID=Atlantic/Canary:20260919T193000
+LOCATION:Estadio SkyFi Castalia\, Castellón de la Plana
 STATUS:CONFIRMED
 END:VEVENT
+
+BEGIN:VEVENT
+UID:cdt-dev-2026-27-7-20260926@calendario-cdtenerife
+DTSTAMP:20260925T220000Z
+LAST-MODIFIED:20260925T220000Z
+SEQUENCE:1
+SUMMARY:⚽ J7 — Tenerife - Cádiz · CONFIRMADO
+DESCRIPTION:Agenda Blanquiazul 2026/27 — Jornada 7 — Partido en casa\n\n📊 CLASIFICACIÓN ACTUAL\nActualizada tras la Jornada 6\n11.º CD TENERIFE · 10 puntos\nPJ 6 · PG 3 · PE 1 · PP 2\nGF 7 · GC 8 · DG -1\n\n⚽ Resultado: pendiente\n\nEntorno: Desarrollo — prueba con datos reales\n\nProyecto independiente, sin vinculación con el CD Tenerife.
+DTSTART;TZID=Atlantic/Canary:20260926T173000
+DTEND;TZID=Atlantic/Canary:20260926T193000
+LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
+STATUS:CONFIRMED
+END:VEVENT
+
 END:VCALENDAR
