@@ -78,7 +78,8 @@ footer{text-align:center;color:var(--muted);font-size:.9rem;padding:0 16px 36px}
    id="mainCta"
    href="https://benitofortes.github.io/cd-tenerife-calendario/cd-tenerife-2026-27.ics"
    target="_blank"
-   rel="noopener noreferrer">
+   rel="noopener noreferrer"
+   data-goatcounter-click="Anadir calendario">
   📅 AÑADIR EL CALENDARIO — GRATIS
 </a>
 
@@ -167,5 +168,6 @@ fetch(ICS_URL,{cache:"no-store"}).then(r=>{if(!r.ok)throw Error();return r.text(
  document.getElementById("matches").innerHTML=ms.map(x=>`<tr><td>${x.j}</td><td><strong>${esc(x.teams)}</strong></td><td>${x.date}</td><td>${x.time}</td><td>${x.ok?"🟢 Confirmado":"⚪ Pendiente"}</td></tr>`).join("");
 }).catch(()=>document.getElementById("status").textContent="No se pudo cargar la tabla ahora mismo. La suscripción sigue disponible.");
 </script>
+<script data-goatcounter="https://digitalblanquiazul.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
