@@ -215,14 +215,15 @@ DESCRIPTION:CD Tenerife — Tenerife - Ceuta
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cdt-2026-27-15-2026-11-22@calendario-cdtenerife
-DTSTAMP:20260812T220826
-SEQUENCE:12
-SUMMARY:⚽ Jornada 15 — Tenerife - Mallorca
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 15 — Partido en casa\nEstado: Pendiente de horario\nVersión de publicación: 1.2\nCalendario creado por Benito Fortes
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
+UID:cdt-2026-27-j15@benitofortes.github.io
+DTSTAMP:20261031T180000Z
+DTSTART;TZID=Atlantic/Canary:20261121T200000
+DTEND;TZID=Atlantic/Canary:20261121T220000
+SUMMARY:CD Tenerife - RCD Mallorca
+LOCATION:Estadio Heliodoro Rodríguez López
+DESCRIPTION:Jornada 15 · LaLiga Hypermotion 2026/27\nHora canaria\nTV: LALIGA TV HYPERMOTION y Orange Fútbol 2\nCalendario creado por Benito Fortes
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-16-2026-11-29@calendario-cdtenerife
