@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CD Tenerife 2026/27 · Benito Fortes
 X-WR-TIMEZONE:Atlantic/Canary
-X-PUBLISHED-VERSION:1.7
+X-PUBLISHED-VERSION:1.8
 BEGIN:VEVENT
 UID:cdt-2026-27-1-2026-08-16@calendario-cdtenerife
 DTSTAMP:20260812T220826
@@ -482,12 +482,12 @@ LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-copa-r1-badajoz@calendario-cdtenerife
-DTSTAMP:20261024T120000Z
-SEQUENCE:17
-SUMMARY:🏆 Copa del Rey — Badajoz - Tenerife · CONFIRMADO
-DESCRIPTION:CD Tenerife 2026/27 — Copa del Rey — Primera eliminatoria — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.7\nCalendario creado por Benito Fortes
-DTSTART;TZID=Atlantic/Canary:20261028T190000
-DTEND;TZID=Atlantic/Canary:20261028T210000
+DTSTAMP:20261031T182847Z
+SEQUENCE:18
+SUMMARY:🏆 Copa del Rey — Badajoz - Tenerife · REPROGRAMADO
+DESCRIPTION:CD Tenerife 2026/27 — Copa del Rey — Primera eliminatoria — Partido fuera\nEstado: Reprogramado — horario confirmado\nVersión de publicación: 1.8\nCalendario creado por Benito Fortes
+DTSTART;TZID=Atlantic/Canary:20261104T200000
+DTEND;TZID=Atlantic/Canary:20261104T220000
 LOCATION:Estadio Nuevo Vivero\, Badajoz
 BEGIN:VALARM
 TRIGGER:-PT60M
