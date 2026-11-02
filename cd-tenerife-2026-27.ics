@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CD Tenerife 2026/27 · Benito Fortes
 X-WR-TIMEZONE:Atlantic/Canary
-X-PUBLISHED-VERSION:1.8
+X-PUBLISHED-VERSION:1.9
 BEGIN:VEVENT
 UID:cdt-2026-27-1-2026-08-16@calendario-cdtenerife
 DTSTAMP:20260812T220826
@@ -174,10 +174,10 @@ BEGIN:VEVENT
 UID:cdt-2026-27-12-2026-11-01@calendario-cdtenerife
 DTSTAMP:20261024T120000Z
 SEQUENCE:17
-SUMMARY:⚽ Jornada 12 — Tenerife - Andorra · CONFIRMADO
-DESCRIPTION:CD Tenerife 2026/27 — Jornada 12 — Partido en casa\nEstado: Horario confirmado\nVersión de publicación: 1.7\nCalendario creado por Benito Fortes
-DTSTART;TZID=Atlantic/Canary:20261101T200000
-DTEND;TZID=Atlantic/Canary:20261101T220000
+SUMMARY:⚽ Jornada 12 — Tenerife - Andorra · REPROGRAMADO
+DESCRIPTION:CD Tenerife 2026/27 — Jornada 12 — Partido en casa\nEstado: Reprogramado - horario confirmado\nVersión de publicación: 1.9\nCalendario creado por Benito Fortes
+DTSTART;TZID=Atlantic/Canary:20261102T130000
+DTEND;TZID=Atlantic/Canary:20261102T150000
 LOCATION:Estadio Heliodoro Rodríguez López\, Santa Cruz de Tenerife
 BEGIN:VALARM
 TRIGGER:-PT60M
@@ -187,8 +187,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdt-2026-27-13-2026-11-08@calendario-cdtenerife
-DTSTAMP:20261024T120000Z
-SEQUENCE:17
+DTSTAMP:20261102T090000Z
+SEQUENCE:18
 SUMMARY:⚽ Jornada 13 — Granada - Tenerife · CONFIRMADO
 DESCRIPTION:CD Tenerife 2026/27 — Jornada 13 — Partido fuera\nEstado: Horario confirmado\nVersión de publicación: 1.7\nCalendario creado por Benito Fortes
 DTSTART;TZID=Atlantic/Canary:20261107T200000
